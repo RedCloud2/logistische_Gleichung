@@ -3,7 +3,7 @@ IT Studienarbeit DHBW 2021
 
 Lösungmöglichkeit:\
 Programmiersprache: **Python**\
-benötigte Bibliotheken:\ 
+benötigte Bibliotheken:
 
 •	**Numpy** ist eine Programmbibliothek für die Programmiersprache Python, die eine einfache Handhabung von Vektoren, Matrizen oder generell großen mehrdimensionalen Arrays ermöglicht. Neben den Datenstrukturen bietet NumPy auch effizient implementierte Funktionen für numerische Berechnungen an.\
 •	**NumPa** es ist eine Bibliothek für die Live-Interaktion mit Graphen.\
