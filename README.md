@@ -1,7 +1,6 @@
 # logistische Gleichung
 IT Studienarbeit DHBW 2021
 
-
 Lösungmöglichkeit:
 Programmiersprache: Python
 benötigte Bibliotheken: 
