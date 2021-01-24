@@ -7,7 +7,7 @@ Programmiersprache: Python
 benötigte Bibliotheken: 
 
 
-•	Numpy ist eine Programmbibliothek für die Programmiersprache Python, die eine einfache Handhabung von Vektoren, Matrizen oder generell großen mehrdimensionalen Arrays ermöglicht. Neben den Datenstrukturen bietet NumPy auch effizient implementierte Funktionen für numerische Berechnungen an.
-•	NumPa es ist eine Bibliothek für die Live-Interaktion mit Graphen.
-•	PyQT5,PyQTGraph  es wird für GUI (grphische Benutzeroberfläche) verwendet.
+•	Numpy ist eine Programmbibliothek für die Programmiersprache Python, die eine einfache Handhabung von Vektoren, Matrizen oder generell großen mehrdimensionalen Arrays ermöglicht. Neben den Datenstrukturen bietet NumPy auch effizient implementierte Funktionen für numerische Berechnungen an.\\
+•	NumPa es ist eine Bibliothek für die Live-Interaktion mit Graphen.\\
+•	PyQT5,PyQTGraph  es wird für GUI (grphische Benutzeroberfläche) verwendet.\\
 •	Matplotlib, Vispy https://vispy.org/gallery.html Graphen visualisieren (https://en.wikipedia.org/wiki/Logistic_map)
