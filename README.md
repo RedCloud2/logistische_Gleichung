@@ -9,6 +9,7 @@ benötigte Bibliotheken:
 •	**NumPa** es ist eine Bibliothek für die Live-Interaktion mit Graphen.\
 •	**PyQT5,PyQTGraph**  es wird für GUI (grphische Benutzeroberfläche) verwendet.\
 •	**Matplotlib, Vispy** https://vispy.org/gallery.html Graphen visualisieren (https://en.wikipedia.org/wiki/Logistic_map)
+•  **PyQt5Designer**
 
 
 ## Aufgabenverteilung:
