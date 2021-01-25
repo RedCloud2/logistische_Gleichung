@@ -15,7 +15,7 @@ benötigte Bibliotheken:
 ## Aufgabenverteilung:
 1. **Projekt**\
 Referenzen:
-   http://rocs.hu-berlin.de/D3/logistic/   (Orbits and Bifurcation Analysis)  ,  https://en.wikipedia.org/wiki/Logistic_map
+   http://rocs.hu-berlin.de/D3/logistic/   (Orbits and Bifurcation Analysis)  ,  https://en.wikipedia.org/wiki/Logistic_map ,   https://www.complexity-explorables.org/flongs/logistic/
    - Logistische Gleichung Funktionen programmieren (       )
    - GUI erstellen (       )
 2. **Bericht**
